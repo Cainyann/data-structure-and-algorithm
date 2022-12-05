@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c3592689ac40f170",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c0a478b1be51b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef27a8e8ee3613ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eaf627298e5772f",
+    "type": "split",
+    "children": [
+      {
+        "id": "881a3bf66ea8622c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39f146eee0843725",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d519cdf22dfaea20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51594b6c6fe866f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8992b1b13d151d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeaa51e9177b8940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9784f64db8b86d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aaf5507af41fe45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ce0afe651368b45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae986b54358f60ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ef27a8e8ee3613ae",
+  "lastOpenFiles": [
+    "删除指定链表元素.md",
+    "pic/Pasted image 20221204214718.png",
+    "pic/Pasted image 20221204194155.png",
+    "pic/Pasted image 20221204193448.png",
+    "pic/Pasted image 20221123153018.png",
+    "链表/基础知识.md",
+    "数组/二分法查找.md",
+    "数组/长度最小的子数组——滑动窗口.md",
+    "数组/移除元素——双指针.md",
+    "总结.md"
+  ]
+}
