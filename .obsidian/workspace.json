@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0a478b1be51b02",
+        "id": "22c4559f111642b0",
         "type": "tabs",
         "children": [
           {
-            "id": "ef27a8e8ee3613ae",
+            "id": "f70e1a27e92e59bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,8 +128,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ef27a8e8ee3613ae",
+  "active": "f70e1a27e92e59bb",
   "lastOpenFiles": [
+    "链表/翻转链表.md",
+    "创建链表.md",
     "删除指定链表元素.md",
     "pic/Pasted image 20221204214718.png",
     "pic/Pasted image 20221204194155.png",
@@ -137,8 +139,6 @@
     "pic/Pasted image 20221123153018.png",
     "链表/基础知识.md",
     "数组/二分法查找.md",
-    "数组/长度最小的子数组——滑动窗口.md",
-    "数组/移除元素——双指针.md",
-    "总结.md"
+    "数组/长度最小的子数组——滑动窗口.md"
   ]
 }
