@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22c4559f111642b0",
+        "id": "ce56e948def4febc",
         "type": "tabs",
         "children": [
           {
-            "id": "f70e1a27e92e59bb",
+            "id": "b0457442ead3bb02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f70e1a27e92e59bb",
+  "active": "b0457442ead3bb02",
   "lastOpenFiles": [
+    "链表/两两交换链表中的节点.md",
+    "链表/删除指定链表元素.md",
+    "数组/二分法查找.md",
+    "未命名.md",
+    "模板.md",
+    "排序和搜索/排序.md",
+    "数组/移除元素——双指针.md",
     "链表/翻转链表.md",
     "创建链表.md",
-    "删除指定链表元素.md",
-    "pic/Pasted image 20221204214718.png",
-    "pic/Pasted image 20221204194155.png",
-    "pic/Pasted image 20221204193448.png",
-    "pic/Pasted image 20221123153018.png",
-    "链表/基础知识.md",
-    "数组/二分法查找.md",
-    "数组/长度最小的子数组——滑动窗口.md"
+    "pic/Pasted image 20221204214718.png"
   ]
 }
